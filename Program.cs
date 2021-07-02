@@ -7,6 +7,7 @@ namespace test
         static void Main(string[] args)
         {
             Console.WriteLine("Test Project");
+            Console.WriteLine("Made some changes here");
         }
     }
 }
